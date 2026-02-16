@@ -1,0 +1,68 @@
+Assesing Online C++ Sources
+
+What makes a good online source:
+- Follow this rule of thumb:
+ -- Do you feel more capable after reading it?
+
+ -Other Indicators:
+ -- Accurate
+ -- Clearly explains the context
+ -- Gives Depth with the explanation
+ -- Gives practical examples
+ -- Provides limitations with examples
+ -- Up to date and maintained regularly
+ -- No Hidden Agendas, such as trying to sell you an online course
+ -- Accessible
+
+What makes bad online sources:
+
+-Indicators
+ -- Clickbait titles
+ -- Doesn't provide good examples
+ -- Writes code with absolutes (Never use this technique)
+ -- Old information
+ -- Tries to sell you something
+ -- Huge/Long Intros
+
+List of good resources:
+-W3Schools.com
+ -- https://www.geeksforgeeks.org/cpp/c-plus-plus/
+ -- Great at giving the basic documentation on how to use things like iterators
+
+-GeeksfoGeeks.com
+ -- https://www.w3schools.com/CPP/
+ -- Great at giving the basic documentation, just another resource like W3Schools.com
+
+-Chrno's C++ youtube series
+ -- https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb
+ -- Great for showing you how to understanding the basics, from setting it up to more complex techniques.
+
+-cpprefrence
+ -- https://en.cppreference.com/
+ -- All the refrences are easily visible, and although the page looks like it was designed 15 years ago,
+    I love the interface and ease of use. Highly recommend just have this page up while starting to search,
+    it had literally everything I needed for all assignments in the CSE220C (Intro to C++) class.
+
+-Claude AI 
+ -- Claude.ai
+ -- This is my favorite because Claude will go through most of the documentation for you, as well as going through
+    all of StackOverflow, Reddit and other forum-esque sites so you don't have to.
+    You can also ask it very specific questions, such as iterator implemntation and different syntax to help.
+    Be careful not to rely on it too much though, as it can easily solve most programming problems/assignemnts 
+    with ease. Make sure to use it as a learning tool, rather than using it to complete assignments for you
+
+List of okay resources:
+-Stack Overflow
+ -- This used to be considered a great resource, but with the advent of AI programs, it has become more 
+    obselete simply because any AI can pour through thousands of pages in a few seconds and give you the 
+    best result.
+    Only "Okay" because often the solution is from 10+ years ago and is most likely only slightly related, 
+    using programming techniques considered archaic and/or bad design. You might get lucky and have someone
+    asking about the exact thing you are working on. 
+
+-Reddit
+ -- Less reliable than Stack, and often most people on reddit will not be able to answer the question properly.
+    Much like Stack, the questions were often asked 5+ years ago and the answer may not be helpful or apply to
+    what you are working on. I only use reddit if I have exhausted pretty much all other avenues.
+
+
